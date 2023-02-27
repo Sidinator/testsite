@@ -1,0 +1,35 @@
+.header{
+    background: red;
+    text-align: center;
+    padding: 20px;
+}
+h1.tester{
+    text-align: center;
+    background-color: black;
+    color: white
+
+}
+.navbar{
+    background-color: black;
+    padding: 20px;
+}
+.main{
+    background-color: red;
+    text-align: left;
+    color: black;
+    padding: 20px;
+}
+.footer{
+    background-color: palevioletred;
+    color: black;
+    padding:10px
+}
+
+* {
+    box-sizing: border-box;
+}
+th, td {
+    padding: 30px;
+    background-color: blue;
+    color: white;
+}
